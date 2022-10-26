@@ -1,0 +1,6 @@
+Note 1:
+I used 3 rows with 3cols insted of 5*5
+Just for example, but the assignment is applicable to all cases.
+
+Note 2:
+I used Interfaces to be as skeleton to show the structure and functionality of Assignment.
